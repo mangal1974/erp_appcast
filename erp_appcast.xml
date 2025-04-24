@@ -3,14 +3,14 @@
   <channel>
     <title>ERP Mobile App Updates</title>
     <item>
-        <title>Version 1.1.7</title>
+        <title>Version 1.1.8</title>
         <description>What's new in this version:
         - New feature 1
         - Bug fixes
         - Performance improvements</description>
         <pubDate>Thu, 11 Apr 2025 12:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.suki.erpmobileapp" 
-                  sparkle:version="1.1.7" 
+                  sparkle:version="1.1.8" 
                   sparkle:os="android" 
                   length="0"
                   type="application/vnd.android.package-archive" />
